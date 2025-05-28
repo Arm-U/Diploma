@@ -1,0 +1,2502 @@
+[
+  {
+    "word": "take",
+    "sentence": "Can I take this book?",
+    "id": 1261
+  },
+  {
+    "word": "year by year",
+    "sentence": "Year by year, life gets better.",
+    "id": 5689
+  },
+  {
+    "word": "apology",
+    "sentence": "Can you accept my apology?",
+    "id": 7272
+  },
+  {
+    "word": "really",
+    "sentence": "Could you really take out the trash?",
+    "id": 5756
+  },
+  {
+    "word": "Liisa met her cousin on the street",
+    "sentence": "",
+    "id": 7097
+  },
+  {
+    "word": "shared apartment",
+    "sentence": "I'm moving to Helsinki and looking for a shared apartment to rent.",
+    "id": 4919
+  },
+  {
+    "word": "thermometer",
+    "sentence": "The thermometer now shows ten degrees below zero.",
+    "id": 3453
+  },
+  {
+    "word": "case",
+    "sentence": "This is a very rare case.",
+    "id": 7250
+  },
+  {
+    "word": "intact",
+    "sentence": "The book is intact.",
+    "id": 6018
+  },
+  {
+    "word": "agree",
+    "sentence": "He agreed to help me with the task.",
+    "id": 5719
+  },
+  {
+    "word": "in that direction",
+    "sentence": "We are going in that direction.",
+    "id": 2619
+  },
+  {
+    "word": "person",
+    "sentence": "He is a strong person.",
+    "id": 6318
+  },
+  {
+    "word": "invigorate",
+    "sentence": "Coffee always invigorates me in the mornings.",
+    "id": 5213
+  },
+  {
+    "word": "met",
+    "sentence": "We met at the café yesterday.",
+    "id": 5340
+  },
+  {
+    "word": "on her part",
+    "sentence": "I love coffee, but Liisa, on her part, loves tea.",
+    "id": 5732
+  },
+  {
+    "word": "steam",
+    "sentence": "The sauna has good steam today.",
+    "id": 3455
+  },
+  {
+    "word": "we would like",
+    "sentence": "We would like to go to the movies today.",
+    "id": 4579
+  },
+  {
+    "word": "some time",
+    "sentence": "I have been waiting for you here for some time.",
+    "id": 5578
+  },
+  {
+    "word": "nowhere",
+    "sentence": "I can't see my keys anywhere.",
+    "id": 4118
+  },
+  {
+    "word": "at night",
+    "sentence": "",
+    "id": 1431
+  },
+  {
+    "word": "twenty-six",
+    "sentence": "I need to wake up in the morning at twenty-six minutes past six.",
+    "id": 6332
+  },
+  {
+    "word": "blood test",
+    "sentence": "I need to go to the doctor to get a blood test done.",
+    "id": 3333
+  },
+  {
+    "word": "lunch",
+    "sentence": "He returned late from lunch.",
+    "id": 3131
+  },
+  {
+    "word": "training session",
+    "sentence": "We have a training session at six o'clock today.",
+    "id": 6204
+  },
+  {
+    "word": "carry",
+    "sentence": "Can I help you carry these bags?",
+    "id": 2071
+  },
+  {
+    "word": "after, in",
+    "sentence": "We are going on vacation in a week.",
+    "id": 5411
+  },
+  {
+    "word": "home",
+    "sentence": "I am going home.",
+    "id": 2166
+  },
+  {
+    "word": "twenty-four",
+    "sentence": "The time is twenty-four past two.",
+    "id": 6330
+  },
+  {
+    "word": "store",
+    "sentence": "This is a new store in our city.",
+    "id": 4650
+  },
+  {
+    "word": "stop",
+    "sentence": "Never stop dreaming.",
+    "id": 5893
+  },
+  {
+    "word": "accidentally",
+    "sentence": "I accidentally forgot my wallet at home.",
+    "id": 4245
+  },
+  {
+    "word": "Mirja's car is being repaired at the service station",
+    "sentence": "",
+    "id": 6710
+  },
+  {
+    "word": "guy",
+    "sentence": "That guy is really funny.",
+    "id": 6382
+  },
+  {
+    "word": "metro station",
+    "sentence": "We went to the metro station.",
+    "id": 2341
+  },
+  {
+    "word": "by bicycle",
+    "sentence": "In summer, I prefer to travel by bicycle.",
+    "id": 2365
+  },
+  {
+    "word": "The older children have a lot of homework.",
+    "sentence": "",
+    "id": 6040
+  },
+  {
+    "word": "shoes",
+    "sentence": "Where are my shoes?",
+    "id": 1834
+  },
+  {
+    "word": "smallest",
+    "sentence": "The cat is the smallest pet in the house.",
+    "id": 4750
+  },
+  {
+    "word": "shopping center",
+    "sentence": "See you at six at the shopping center!",
+    "id": 7400
+  },
+  {
+    "word": "we drove",
+    "sentence": "Last weekend we drove to Helsinki to see the museums.",
+    "id": 3399
+  },
+  {
+    "word": "on the way",
+    "sentence": "On the way home.",
+    "id": 2206
+  },
+  {
+    "word": "escape",
+    "sentence": "He tried to escape at the last moment.",
+    "id": 7137
+  },
+  {
+    "word": "they are playing",
+    "sentence": "They cannot come now because they are playing football.",
+    "id": 5403
+  },
+  {
+    "word": "moment",
+    "sentence": "Wait a moment, please.",
+    "id": 1488
+  },
+  {
+    "word": "Pekka and Liisa have a big car",
+    "sentence": "",
+    "id": 6277
+  },
+  {
+    "word": "Well, maybe yes",
+    "sentence": "",
+    "id": 7041
+  },
+  {
+    "word": "volleyball",
+    "sentence": "Let's go play volleyball today!",
+    "id": 6208
+  },
+  {
+    "word": "right",
+    "sentence": "I have the right to go to school.",
+    "id": 3527
+  },
+  {
+    "word": "not yet",
+    "sentence": "I am not at work yet.",
+    "id": 1567
+  },
+  {
+    "word": "for two years",
+    "sentence": "He has not been to the gym for two years.",
+    "id": 4168
+  },
+  {
+    "word": "roll",
+    "sentence": "A roll is an excellent addition to soup.",
+    "id": 2592
+  },
+  {
+    "word": "winter tires, on the other hand, were not suitable for the thief",
+    "sentence": "",
+    "id": 3955
+  },
+  {
+    "word": "bassist",
+    "sentence": "The bassist plays the bass guitar in the band.",
+    "id": 5151
+  },
+  {
+    "word": "break",
+    "sentence": "The break starts now, so we can go get something to drink.",
+    "id": 6149
+  },
+  {
+    "word": "noble",
+    "sentence": "He always behaves in a very noble manner.",
+    "id": 6937
+  },
+  {
+    "word": "habit",
+    "sentence": "He has a strange habit of always drinking coffee before going to bed.",
+    "id": 3081
+  },
+  {
+    "word": "Maija said that she lives in Tampere",
+    "sentence": "",
+    "id": 7378
+  },
+  {
+    "word": "lost",
+    "sentence": "The keys are lost.",
+    "id": 7133
+  },
+  {
+    "word": "caught",
+    "sentence": "He tried to steal candy from the store, but he was caught.",
+    "id": 3944
+  },
+  {
+    "word": "previously",
+    "sentence": "I have previously been to Helsinki.",
+    "id": 3610
+  },
+  {
+    "word": "milk",
+    "sentence": "Milk is an excellent source of calcium.",
+    "id": 2574
+  },
+  {
+    "word": "functional",
+    "sentence": "This device is truly functional.",
+    "id": 6662
+  },
+  {
+    "word": "I will arrive on foot",
+    "sentence": "",
+    "id": 2369
+  },
+  {
+    "word": "couple living in a common-law marriage",
+    "sentence": "They have been a couple living in a common-law marriage for three years.",
+    "id": 5699
+  },
+  {
+    "word": "women",
+    "sentence": "I see many women in the shopping mall.",
+    "id": 4701
+  },
+  {
+    "word": "maternity leave",
+    "sentence": "She is currently on maternity leave.",
+    "id": 5602
+  },
+  {
+    "word": "I think that this man is Finnish",
+    "sentence": "",
+    "id": 5480
+  },
+  {
+    "word": "journalist",
+    "sentence": "The journalist writes articles and reports.",
+    "id": 2816
+  },
+  {
+    "word": "no one",
+    "sentence": "No one had an extra pen.",
+    "id": 4108
+  },
+  {
+    "word": "on vacation",
+    "sentence": "I'm on vacation in Turkey.",
+    "id": 2205
+  },
+  {
+    "word": "I read books over the weekend",
+    "sentence": "",
+    "id": 3372
+  },
+  {
+    "word": "Are they still talking?",
+    "sentence": "",
+    "id": 5714
+  },
+  {
+    "word": "birch",
+    "sentence": "The birch is a popular type of tree in Finland.",
+    "id": 3515
+  },
+  {
+    "word": "you put",
+    "sentence": "You put that bag on the table.",
+    "id": 5702
+  },
+  {
+    "word": "In Finland, there are 5.5 million people.",
+    "sentence": "",
+    "id": 2232
+  },
+  {
+    "word": "about anything",
+    "sentence": "I am not talking about anything special.",
+    "id": 4119
+  },
+  {
+    "word": "parents",
+    "sentence": "My parents came to meet me in front of the school.",
+    "id": 1689
+  },
+  {
+    "word": "walked",
+    "sentence": "We walked in the park in the afternoon.",
+    "id": 5338
+  },
+  {
+    "word": "charging",
+    "sentence": "The phone is charging",
+    "id": 3392
+  },
+  {
+    "word": "men packing their suitcases",
+    "sentence": "I saw many men packing their suitcases at the beach.",
+    "id": 6543
+  },
+  {
+    "word": "phone",
+    "sentence": "Where is the phone charger?",
+    "id": 3137
+  },
+  {
+    "word": "men packing a suitcase",
+    "sentence": "The men packing a suitcase are in a hurry.",
+    "id": 6546
+  },
+  {
+    "word": "square meter",
+    "sentence": "The area of the apartment is 50 square meters.",
+    "id": 2027
+  },
+  {
+    "word": "international match",
+    "sentence": "Next weekend there will be an exciting international match between Finland and Sweden.",
+    "id": 6181
+  },
+  {
+    "word": "salary",
+    "sentence": "My salary is paid monthly.",
+    "id": 2772
+  },
+  {
+    "word": "each other",
+    "sentence": "They always help each other when necessary.",
+    "id": 5894
+  },
+  {
+    "word": "gap",
+    "sentence": "",
+    "id": 4185
+  },
+  {
+    "word": "immediately",
+    "sentence": "We can leave immediately once you are ready.",
+    "id": 4593
+  },
+  {
+    "word": "weekend",
+    "sentence": "I have a trip planned for the weekend.",
+    "id": 2939
+  },
+  {
+    "word": "reception desk",
+    "sentence": "Where is the reception desk located?",
+    "id": 2370
+  },
+  {
+    "word": "piece of plastic",
+    "sentence": "Do not throw a piece of plastic into the environment.",
+    "id": 6782
+  },
+  {
+    "word": "might be",
+    "sentence": "Tomorrow it might be rainy.",
+    "id": 7169
+  },
+  {
+    "word": "beep",
+    "sentence": "The phone is beeping.",
+    "id": 6077
+  },
+  {
+    "word": "you",
+    "sentence": "Do you have the key?",
+    "id": 2928
+  },
+  {
+    "word": "accident",
+    "sentence": "The accident happened last night.",
+    "id": 7311
+  },
+  {
+    "word": "area",
+    "sentence": "The area of the house is 120 square meters.",
+    "id": 5379
+  },
+  {
+    "word": "foreign policy",
+    "sentence": "Finland's foreign policy focuses on promoting peace and cooperation.",
+    "id": 5306
+  },
+  {
+    "word": "firm",
+    "sentence": "The mattress is very firm.",
+    "id": 2093
+  },
+  {
+    "word": "cityscape",
+    "sentence": "The city is rapidly developing, and its cityscape is changing.",
+    "id": 7018
+  },
+  {
+    "word": "go",
+    "sentence": "Does this train go to the center?",
+    "id": 1266
+  },
+  {
+    "word": "actually",
+    "sentence": "Actually, I don't know.",
+    "id": 3612
+  },
+  {
+    "word": "The man buys a new t-shirt.",
+    "sentence": "",
+    "id": 2863
+  },
+  {
+    "word": "In the large suitcase that will be packed in the evening, there are still no items.",
+    "sentence": "",
+    "id": 6699
+  },
+  {
+    "word": "dusk",
+    "sentence": "Dusk is a beautiful time to go for a walk.",
+    "id": 5438
+  },
+  {
+    "word": "even if",
+    "sentence": "We can go to the cottage, even if it rains.",
+    "id": 5753
+  },
+  {
+    "word": "north",
+    "sentence": "",
+    "id": 1223
+  },
+  {
+    "word": "To what?",
+    "sentence": "To what trip?",
+    "id": 2404
+  },
+  {
+    "word": "makes angry",
+    "sentence": "What makes you angry?",
+    "id": 5217
+  },
+  {
+    "word": "lunch",
+    "sentence": "A lunch break is important.",
+    "id": 2062
+  },
+  {
+    "word": "patient",
+    "sentence": "The patient is waiting in the doctor's office.",
+    "id": 3315
+  },
+  {
+    "word": "elevator",
+    "sentence": "The building has an elevator.",
+    "id": 2038
+  },
+  {
+    "word": "we are not",
+    "sentence": "We are not ready to leave yet.",
+    "id": 3167
+  },
+  {
+    "word": "in love",
+    "sentence": "I am in love with summer.",
+    "id": 5621
+  },
+  {
+    "word": "Nice to see you, long time no see!",
+    "sentence": "",
+    "id": 2313
+  },
+  {
+    "word": "cover",
+    "sentence": "The book's cover is adorned with a beautiful picture.",
+    "id": 5374
+  },
+  {
+    "word": "again",
+    "sentence": "Could you show it to me again?",
+    "id": 5564
+  },
+  {
+    "word": "nose",
+    "sentence": "I feel cold, so my nose is running.",
+    "id": 3254
+  },
+  {
+    "word": "next year",
+    "sentence": "Next year, I plan to travel to Finland.",
+    "id": 3018
+  },
+  {
+    "word": "you lived",
+    "sentence": "When did you live in Helsinki?",
+    "id": 4867
+  },
+  {
+    "word": "defender",
+    "sentence": "The defender made a fantastic save.",
+    "id": 6189
+  },
+  {
+    "word": "maternity benefit",
+    "sentence": "Maternity benefit helps financially after the birth of a child.",
+    "id": 5605
+  },
+  {
+    "word": "Same here!",
+    "sentence": "I'm always hungry by 11 AM. - Same here!",
+    "id": 2700
+  },
+  {
+    "word": "with me",
+    "sentence": "There is something wrong with me.",
+    "id": 4803
+  },
+  {
+    "word": "word ('Oh, exactly!')",
+    "sentence": "",
+    "id": 1317
+  },
+  {
+    "word": "sew",
+    "sentence": "My friend has taught me to sew clothes.",
+    "id": 4154
+  },
+  {
+    "word": "cannot remain silent",
+    "sentence": "The truth cannot remain silent, no matter how unpleasant it is.",
+    "id": 5195
+  },
+  {
+    "word": "automatic",
+    "sentence": "The automatic coffee maker brews your morning coffee before you wake up.",
+    "id": 4667
+  },
+  {
+    "word": "quiet (Suomalaisia sanotaan usein hiljaisiksi - Finns are often called quiet)",
+    "sentence": "",
+    "id": 5646
+  },
+  {
+    "word": "button",
+    "sentence": "Press that button to open the door.",
+    "id": 7238
+  },
+  {
+    "word": "The man goes into the house.",
+    "sentence": "",
+    "id": 2212
+  },
+  {
+    "word": "They drive luxurious cars.",
+    "sentence": "",
+    "id": 4484
+  },
+  {
+    "word": "I'm going for a run",
+    "sentence": "",
+    "id": 3665
+  },
+  {
+    "word": "word",
+    "sentence": "You don't want to do it.",
+    "id": 2302
+  },
+  {
+    "word": "hushed up",
+    "sentence": "The matter must be hushed up.",
+    "id": 6695
+  },
+  {
+    "word": "from the twenty-fifth",
+    "sentence": "I will be out of work starting from the twenty-fifth week.",
+    "id": 6251
+  },
+  {
+    "word": "thirty",
+    "sentence": "",
+    "id": 1081
+  },
+  {
+    "word": "Pedro plays the guitar",
+    "sentence": "",
+    "id": 1840
+  },
+  {
+    "word": "they live",
+    "sentence": "They live in Lappeenranta now.",
+    "id": 4817
+  },
+  {
+    "word": "shopping",
+    "sentence": "",
+    "id": 3661
+  },
+  {
+    "word": "Believe it or not!",
+    "sentence": "",
+    "id": 5745
+  },
+  {
+    "word": "We have been on the road for two weeks",
+    "sentence": "",
+    "id": 3024
+  },
+  {
+    "word": "umbrella",
+    "sentence": "Take an umbrella, it's raining.",
+    "id": 1862
+  },
+  {
+    "word": "curly",
+    "sentence": "She has beautiful curly hair.",
+    "id": 1605
+  },
+  {
+    "word": "Man buys new shoes",
+    "sentence": "",
+    "id": 2881
+  },
+  {
+    "word": "chili pepper",
+    "sentence": "This soup might contain chili pepper.",
+    "id": 2468
+  },
+  {
+    "word": "I enjoy skiing",
+    "sentence": "",
+    "id": 3672
+  },
+  {
+    "word": "detail",
+    "sentence": "Every detail, even the smallest one, is important in this work.",
+    "id": 6977
+  },
+  {
+    "word": "warranty; warranty certificate",
+    "sentence": "I bought a new phone and received a warranty and a warranty certificate.",
+    "id": 4627
+  },
+  {
+    "word": "cousins",
+    "sentence": "",
+    "id": 5492
+  },
+  {
+    "word": "In my opinion...",
+    "sentence": "",
+    "id": 3715
+  },
+  {
+    "word": "determined",
+    "sentence": "He is determined and achieves his goals.",
+    "id": 6513
+  },
+  {
+    "word": "fly",
+    "sentence": "Notice that the fly is flying around the room.",
+    "id": 3507
+  },
+  {
+    "word": "chest",
+    "sentence": "I have a red shirt that fits well around the chest.",
+    "id": 3266
+  },
+  {
+    "word": "cool off",
+    "sentence": "In the summer, it is nice to cool off in the swimming pool.",
+    "id": 3464
+  },
+  {
+    "word": "word: 'Boys are painting houses.'",
+    "sentence": "",
+    "id": 4486
+  },
+  {
+    "word": "would not have been",
+    "sentence": "If there had been no presents at Christmas, the children would have cried.",
+    "id": 5526
+  },
+  {
+    "word": "He won't go",
+    "sentence": "He won't go to the party today.",
+    "id": 4832
+  },
+  {
+    "word": "contact",
+    "sentence": "I have lost contact with my best friend.",
+    "id": 4350
+  },
+  {
+    "word": "customs",
+    "sentence": "We have just arrived at the airport and now we need to go through customs.",
+    "id": 3045
+  },
+  {
+    "word": "almost",
+    "sentence": "He is almost ready.",
+    "id": 3734
+  },
+  {
+    "word": "these",
+    "sentence": "I need these books.",
+    "id": 2842
+  },
+  {
+    "word": "cheap, affordable",
+    "sentence": "This is a really cheap and affordable price for the product.",
+    "id": 4630
+  },
+  {
+    "word": "just",
+    "sentence": "I have just arrived home.",
+    "id": 3927
+  },
+  {
+    "word": "Welcome to our cottage to celebrate my birthday on 23.8.! Best regards, Maija",
+    "sentence": "",
+    "id": 4257
+  },
+  {
+    "word": "annual leave",
+    "sentence": "I planned to go abroad during my annual leave.",
+    "id": 6483
+  },
+  {
+    "word": "sixth",
+    "sentence": "",
+    "id": 2657
+  },
+  {
+    "word": "I enjoy skiing",
+    "sentence": "",
+    "id": 3673
+  },
+  {
+    "word": "housing agency",
+    "sentence": "The housing agency assists in finding an apartment.",
+    "id": 2024
+  },
+  {
+    "word": "politics",
+    "sentence": "Politics affects our daily lives.",
+    "id": 5305
+  },
+  {
+    "word": "on Wednesdays",
+    "sentence": "We go swimming on Wednesdays.",
+    "id": 1358
+  },
+  {
+    "word": "What do you like?",
+    "sentence": "",
+    "id": 1849
+  },
+  {
+    "word": "The anticipation is just beginning.",
+    "sentence": "",
+    "id": 5803
+  },
+  {
+    "word": "Yesterday I worked from morning till night",
+    "sentence": "",
+    "id": 5476
+  },
+  {
+    "word": "far – farther – farthest",
+    "sentence": "My cottage is far from the city.",
+    "id": 6221
+  },
+  {
+    "word": "gaze",
+    "sentence": "He has a gentle gaze.",
+    "id": 6717
+  },
+  {
+    "word": "roots",
+    "sentence": "I have deep roots in this city.",
+    "id": 6936
+  },
+  {
+    "word": "And you?",
+    "sentence": "I'm doing well, and you?",
+    "id": 1025
+  },
+  {
+    "word": "to watch",
+    "sentence": "I watch television every evening.",
+    "id": 1914
+  },
+  {
+    "word": "Can you help me carry this big box?",
+    "sentence": "",
+    "id": 4063
+  },
+  {
+    "word": "cleaning the bathroom",
+    "sentence": "I am cleaning the bathroom today.",
+    "id": 3793
+  },
+  {
+    "word": "office chair",
+    "sentence": "The office chair is comfortable.",
+    "id": 2121
+  },
+  {
+    "word": "packed",
+    "sentence": "Alright, is everything packed? Can we leave?",
+    "id": 6895
+  },
+  {
+    "word": "morning and evening",
+    "sentence": "In the mornings and evenings, I drink a cup of tea.",
+    "id": 6641
+  },
+  {
+    "word": "I have the flu",
+    "sentence": "",
+    "id": 3293
+  },
+  {
+    "word": "participate",
+    "sentence": "I would like to participate in this event.",
+    "id": 4127
+  },
+  {
+    "word": "stone age",
+    "sentence": "In the Stone Age, people used tools made of stone.",
+    "id": 5257
+  },
+  {
+    "word": "new",
+    "sentence": "I have a new book.",
+    "id": 1375
+  },
+  {
+    "word": "Don't eat sugar!",
+    "sentence": "",
+    "id": 2244
+  },
+  {
+    "word": "no",
+    "sentence": "This is no joke!",
+    "id": 4114
+  },
+  {
+    "word": "perfect",
+    "sentence": "He wants to perfect the project.",
+    "id": 7002
+  },
+  {
+    "word": "project manager",
+    "sentence": "The project manager leads this working group.",
+    "id": 4364
+  },
+  {
+    "word": "be resolved",
+    "sentence": "The situation may be resolved soon.",
+    "id": 6671
+  },
+  {
+    "word": "wooden",
+    "sentence": "I have a wooden chair.",
+    "id": 5896
+  },
+  {
+    "word": "fifth",
+    "sentence": "",
+    "id": 6261
+  },
+  {
+    "word": "sky",
+    "sentence": "The sky is bright blue today.",
+    "id": 5887
+  },
+  {
+    "word": "launch",
+    "sentence": "Can you launch the fireworks now?",
+    "id": 6144
+  },
+  {
+    "word": "neither",
+    "sentence": "He didn't choose either.",
+    "id": 5852
+  },
+  {
+    "word": "on Sunday",
+    "sentence": "",
+    "id": 1058
+  },
+  {
+    "word": "with passion",
+    "sentence": "He talks about his hobby with passion.",
+    "id": 6302
+  },
+  {
+    "word": "The man has packed the suitcase, but we don't know if he has finished packing.",
+    "sentence": "",
+    "id": 6887
+  },
+  {
+    "word": "What about Wednesday? I don't have time on Wednesday.",
+    "sentence": "",
+    "id": 1979
+  },
+  {
+    "word": "Australia",
+    "sentence": "",
+    "id": 1220
+  },
+  {
+    "word": "an opened box of chocolates",
+    "sentence": "I forgot to open an opened box of chocolates.",
+    "id": 6900
+  },
+  {
+    "word": "Russia is a large country",
+    "sentence": "",
+    "id": 1197
+  },
+  {
+    "word": "disturb",
+    "sentence": "Do not disturb me when I am at work.",
+    "id": 5111
+  },
+  {
+    "word": "tick",
+    "sentence": "Be careful not to get a tick in the forest.",
+    "id": 3512
+  },
+  {
+    "word": "intend",
+    "sentence": "I intend to visit the museum.",
+    "id": 2280
+  },
+  {
+    "word": "integration plan",
+    "sentence": "The employment service prepares an integration plan for immigrants.",
+    "id": 4447
+  },
+  {
+    "word": "name",
+    "sentence": "My name is Matti.",
+    "id": 7083
+  },
+  {
+    "word": "strange",
+    "sentence": "This book is really strange.",
+    "id": 5717
+  },
+  {
+    "word": "we have read",
+    "sentence": "At the library, we have read many books.",
+    "id": 4039
+  },
+  {
+    "word": "I am putting",
+    "sentence": "Yes, yes! I am just putting the items in the bag.",
+    "id": 5701
+  },
+  {
+    "word": "I haven't had lunch yet",
+    "sentence": "",
+    "id": 4054
+  },
+  {
+    "word": "Here are some tips",
+    "sentence": "",
+    "id": 4970
+  },
+  {
+    "word": "I regret to say I can't come at that time.",
+    "sentence": "",
+    "id": 5167
+  },
+  {
+    "word": "restaurant menu",
+    "sentence": "I will look at the restaurant menu.",
+    "id": 2856
+  },
+  {
+    "word": "date",
+    "sentence": "I want to date you.",
+    "id": 4129
+  },
+  {
+    "word": "rare",
+    "sentence": "It is rare for people to know about this place.",
+    "id": 6785
+  },
+  {
+    "word": "finish",
+    "sentence": "I would like to finish this book before the vacation.",
+    "id": 3381
+  },
+  {
+    "word": "survey",
+    "sentence": "Can you fill out this survey?",
+    "id": 5959
+  },
+  {
+    "word": "become clear",
+    "sentence": "At first, I was suspicious, but eventually, it became clear that there was some truth in his story.",
+    "id": 3908
+  },
+  {
+    "word": "from home",
+    "sentence": "He left home.",
+    "id": 2167
+  },
+  {
+    "word": "count",
+    "sentence": "Can you count how many apples we have left?",
+    "id": 4908
+  },
+  {
+    "word": "mainly",
+    "sentence": "The course mainly consists of lectures and exercises.",
+    "id": 6974
+  },
+  {
+    "word": "guide",
+    "sentence": "Aki works as a guide.",
+    "id": 5624
+  },
+  {
+    "word": "long blonde straight hair",
+    "sentence": "She has long blonde straight hair.",
+    "id": 1619
+  },
+  {
+    "word": "minister",
+    "sentence": "The minister will hold a press conference today.",
+    "id": 5317
+  },
+  {
+    "word": "to someone's place",
+    "sentence": "I am going to my grandmother's place for the weekend.",
+    "id": 4130
+  },
+  {
+    "word": "drank",
+    "sentence": "We drank coffee in the morning.",
+    "id": 5336
+  },
+  {
+    "word": "Welcome!",
+    "sentence": "Welcome to our store!",
+    "id": 1001
+  },
+  {
+    "word": "engagement party",
+    "sentence": "They invited me to their engagement party.",
+    "id": 4214
+  },
+  {
+    "word": "institution",
+    "sentence": "The institution opens its doors at eight in the morning.",
+    "id": 5534
+  },
+  {
+    "word": "these words",
+    "sentence": "With these words, I want to wish you a good day.",
+    "id": 4537
+  },
+  {
+    "word": "I enjoy watching sports programs",
+    "sentence": "",
+    "id": 3681
+  },
+  {
+    "word": "colloquial language",
+    "sentence": "I am learning colloquial language.",
+    "id": 1122
+  },
+  {
+    "word": "near",
+    "sentence": "I bought this book near my house.",
+    "id": 3074
+  },
+  {
+    "word": "their, them",
+    "sentence": "Here they are. Maybe you could warm them up.",
+    "id": 1865
+  },
+  {
+    "word": "to the country",
+    "sentence": "We are flying to the country.",
+    "id": 2220
+  },
+  {
+    "word": "scenographer",
+    "sentence": "The scenographer is responsible for the visual design of the theatrical production.",
+    "id": 5149
+  },
+  {
+    "word": "stay up late",
+    "sentence": "It's not a good idea to stay up late before an important exam.",
+    "id": 3419
+  },
+  {
+    "word": "match",
+    "sentence": "Tonight there will be an interesting match!",
+    "id": 6205
+  },
+  {
+    "word": "See you on Thursday?",
+    "sentence": "",
+    "id": 5155
+  },
+  {
+    "word": "Great idea!",
+    "sentence": "",
+    "id": 2288
+  },
+  {
+    "word": "to disappear, to vanish",
+    "sentence": "It seems my pen always disappears when I need it the most.",
+    "id": 3921
+  },
+  {
+    "word": "comes out",
+    "sentence": "My new book comes out next week.",
+    "id": 4336
+  },
+  {
+    "word": "the book we read",
+    "sentence": "The book we read was really interesting.",
+    "id": 7073
+  },
+  {
+    "word": "The day turned out to be rainy",
+    "sentence": "",
+    "id": 5652
+  },
+  {
+    "word": "counter",
+    "sentence": "Bring the dirty dishes to the counter, thank you.",
+    "id": 6745
+  },
+  {
+    "word": "departure from home",
+    "sentence": "The departure from home went smoothly.",
+    "id": 3437
+  },
+  {
+    "word": "depression",
+    "sentence": "Depression is a serious mental disorder that affects a person's thoughts and feelings.",
+    "id": 3328
+  },
+  {
+    "word": "independent",
+    "sentence": "He wants to be independent and live in his own house.",
+    "id": 6508
+  },
+  {
+    "word": "Shall we go on vacation to Portugal?",
+    "sentence": "",
+    "id": 5004
+  },
+  {
+    "word": "spider",
+    "sentence": "Look, there's a tiny spider on that wall.",
+    "id": 3510
+  },
+  {
+    "word": "eaten",
+    "sentence": "I have already eaten breakfast.",
+    "id": 6873
+  },
+  {
+    "word": "nobody",
+    "sentence": "Nobody knows the answer to this question.",
+    "id": 4101
+  },
+  {
+    "word": "In the largest cities, there are many events.",
+    "sentence": "",
+    "id": 6038
+  },
+  {
+    "word": "has been eaten",
+    "sentence": "All the food has been eaten.",
+    "id": 5346
+  },
+  {
+    "word": "preschool teacher",
+    "sentence": "The preschool teacher works with children in a kindergarten.",
+    "id": 2823
+  },
+  {
+    "word": "plumber",
+    "sentence": "The plumber fixed the leaking pipe.",
+    "id": 2805
+  },
+  {
+    "word": "salmon",
+    "sentence": "Salmon is a source of omega-3 fatty acids.",
+    "id": 2535
+  },
+  {
+    "word": "Tiina sings more beautifully than Maria.",
+    "sentence": "",
+    "id": 6217
+  },
+  {
+    "word": "place",
+    "sentence": "Is this place free?",
+    "id": 1106
+  },
+  {
+    "word": "scandal",
+    "sentence": "There was a big article in the newspaper about a political scandal.",
+    "id": 6954
+  },
+  {
+    "word": "sensitive",
+    "sentence": "He is very sensitive to noise.",
+    "id": 6092
+  },
+  {
+    "word": "authentication",
+    "sentence": "They log into the bank using strong authentication.",
+    "id": 6582
+  },
+  {
+    "word": "I play the piano",
+    "sentence": "",
+    "id": 3682
+  },
+  {
+    "word": "on average",
+    "sentence": "On average, Finns drink a lot of coffee daily.",
+    "id": 5687
+  },
+  {
+    "word": "Although Finland was part of Russia, Finland had its own laws.",
+    "sentence": "",
+    "id": 5490
+  },
+  {
+    "word": "trio",
+    "sentence": "The trio planned a trip to the forest.",
+    "id": 6946
+  },
+  {
+    "word": "Main role",
+    "sentence": "The main role in the film was well-written and well-acted.",
+    "id": 5239
+  },
+  {
+    "word": "and",
+    "sentence": "And where is my phone?",
+    "id": 1101
+  },
+  {
+    "word": "split",
+    "sentence": "Our group split into two parts.",
+    "id": 5395
+  },
+  {
+    "word": "flea market",
+    "sentence": "I am going to the flea market to buy old books.",
+    "id": 4623
+  },
+  {
+    "word": "worry",
+    "sentence": "Don't worry, everything will be fine.",
+    "id": 7060
+  },
+  {
+    "word": "population",
+    "sentence": "The population is growing rapidly in this city.",
+    "id": 5325
+  },
+  {
+    "word": "despite",
+    "sentence": "He arrived at work on time despite the bad weather.",
+    "id": 6771
+  },
+  {
+    "word": "smell",
+    "sentence": "Flowers smell wonderful in the summer.",
+    "id": 5906
+  },
+  {
+    "word": "I thought you wouldn't come. But you did!",
+    "sentence": "",
+    "id": 5676
+  },
+  {
+    "word": "How do you say thank you in Finnish?",
+    "sentence": "",
+    "id": 1461
+  },
+  {
+    "word": "Good night! Sleep tight!",
+    "sentence": "",
+    "id": 1021
+  },
+  {
+    "word": "storage room",
+    "sentence": "The storage room is in the basement.",
+    "id": 2162
+  },
+  {
+    "word": "European Championship",
+    "sentence": "",
+    "id": 6184
+  },
+  {
+    "word": "olives",
+    "sentence": "",
+    "id": 4809
+  },
+  {
+    "word": "tattoo",
+    "sentence": "I am considering getting a tattoo.",
+    "id": 6322
+  },
+  {
+    "word": "they are",
+    "sentence": "They are engineers.",
+    "id": 1120
+  },
+  {
+    "word": "largest",
+    "sentence": "She participated in the city's largest competition.",
+    "id": 6061
+  },
+  {
+    "word": "salt",
+    "sentence": "Salt adds flavor to many dishes.",
+    "id": 2553
+  },
+  {
+    "word": "rest, relaxation",
+    "sentence": "It is important to rest and take time for yourself to recuperate – relaxation is essential.",
+    "id": 3343
+  },
+  {
+    "word": "negative",
+    "sentence": "He received a negative response to his application.",
+    "id": 4347
+  },
+  {
+    "word": "you have read",
+    "sentence": "How many books have you read this year?",
+    "id": 4025
+  },
+  {
+    "word": "scares",
+    "sentence": "I am scared to go to the doctor.",
+    "id": 5215
+  },
+  {
+    "word": "kettle",
+    "sentence": "The water is boiling in the kettle.",
+    "id": 2111
+  },
+  {
+    "word": "bus",
+    "sentence": "I am traveling by bus.",
+    "id": 1257
+  },
+  {
+    "word": "fish",
+    "sentence": "",
+    "id": 2534
+  },
+  {
+    "word": "attic closet",
+    "sentence": "The attic closet is on the loft.",
+    "id": 2163
+  },
+  {
+    "word": "Do you drink coffee?",
+    "sentence": "",
+    "id": 2000
+  },
+  {
+    "word": "to a café",
+    "sentence": "Let's go to a café.",
+    "id": 1969
+  },
+  {
+    "word": "playing guitar",
+    "sentence": "I love playing the guitar.",
+    "id": 3791
+  },
+  {
+    "word": "recession",
+    "sentence": "The recession affects the profits of many companies.",
+    "id": 5234
+  },
+  {
+    "word": "anniversary",
+    "sentence": "Don't forget that our wedding anniversary is next week.",
+    "id": 5566
+  },
+  {
+    "word": "file a compensation claim",
+    "sentence": "The passenger filed a compensation claim with the airline for the cancelled flight.",
+    "id": 3946
+  },
+  {
+    "word": "word, He is going to the square.",
+    "sentence": "",
+    "id": 2226
+  },
+  {
+    "word": "shower",
+    "sentence": "The shower works well.",
+    "id": 2129
+  },
+  {
+    "word": "person",
+    "sentence": "The apartment is meant for one person.",
+    "id": 2030
+  },
+  {
+    "word": "Vladimir lives with Ksenia in Rauha.",
+    "sentence": "",
+    "id": 1751
+  },
+  {
+    "word": "flour",
+    "sentence": "We will need flour for baking.",
+    "id": 2479
+  },
+  {
+    "word": "tough",
+    "sentence": "He had a tough day at work.",
+    "id": 6126
+  },
+  {
+    "word": "reliable",
+    "sentence": "He's a very reliable friend.",
+    "id": 4342
+  },
+  {
+    "word": "eggplant",
+    "sentence": "Eggplants are delicious when fried.",
+    "id": 2523
+  },
+  {
+    "word": "plate",
+    "sentence": "Main courses are served on the plate.",
+    "id": 2561
+  },
+  {
+    "word": "coffee",
+    "sentence": "I love the smell of coffee.",
+    "id": 1841
+  },
+  {
+    "word": "fluently",
+    "sentence": "He speaks Finnish fluently.",
+    "id": 6409
+  },
+  {
+    "word": "get along",
+    "sentence": "We need to get along with each other.",
+    "id": 4172
+  },
+  {
+    "word": "they did not read",
+    "sentence": "They did not read the book.",
+    "id": 3809
+  },
+  {
+    "word": "persistent",
+    "sentence": "He is a really persistent learner.",
+    "id": 7158
+  },
+  {
+    "word": "work certificate",
+    "sentence": "Could you give me a work certificate before I leave?",
+    "id": 4439
+  },
+  {
+    "word": "eat",
+    "sentence": "We are hungry, let's go eat.",
+    "id": 1970
+  },
+  {
+    "word": "warm",
+    "sentence": "Although the air is already getting colder, it is quite warm on the terrace.",
+    "id": 3417
+  },
+  {
+    "word": "administration",
+    "sentence": "The administration approved a new rule.",
+    "id": 5290
+  },
+  {
+    "word": "lower shelf",
+    "sentence": "Attach the upper and lower shelves to the end boards with screws.",
+    "id": 5950
+  },
+  {
+    "word": "Round-trip ticket",
+    "sentence": "A round-trip ticket from Helsinki to Tampere costs approximately 40 euros.",
+    "id": 3038
+  },
+  {
+    "word": "largest",
+    "sentence": "I often go shopping at the largest stores in the city.",
+    "id": 6054
+  },
+  {
+    "word": "bus ticket",
+    "sentence": "Where is my bus ticket?",
+    "id": 1771
+  },
+  {
+    "word": "password",
+    "sentence": "Do not disclose your password.",
+    "id": 2738
+  },
+  {
+    "word": "rash",
+    "sentence": "I have a rash, so I need allergy medication.",
+    "id": 3323
+  },
+  {
+    "word": "outside",
+    "sentence": "Come outside with me.",
+    "id": 2063
+  },
+  {
+    "word": "Jose always talks about football.",
+    "sentence": "",
+    "id": 3875
+  },
+  {
+    "word": "'Ты же придёшь…' in Finnish translates to 'Tuuthan sä…' which means 'You will come, won't you…' in English",
+    "sentence": "",
+    "id": 7030
+  },
+  {
+    "word": "Sorry, but I can't.",
+    "sentence": "",
+    "id": 4778
+  },
+  {
+    "word": "nothing",
+    "sentence": "Tuula eats nothing in the morning.",
+    "id": 2019
+  },
+  {
+    "word": "disappear",
+    "sentence": "The keys disappeared without a trace, and I couldn't find them anywhere.",
+    "id": 3914
+  },
+  {
+    "word": "must",
+    "sentence": "I must do my homework before I can watch television.",
+    "id": 4373
+  },
+  {
+    "word": "assert",
+    "sentence": "He asserts that he saw something strange.",
+    "id": 7168
+  },
+  {
+    "word": "success",
+    "sentence": "His company has been a great success.",
+    "id": 5238
+  },
+  {
+    "word": "substitute",
+    "sentence": "I use soy milk as a substitute in my coffee with milk.",
+    "id": 6827
+  },
+  {
+    "word": "as soon as possible",
+    "sentence": "Please let me know as soon as possible, thank you.",
+    "id": 5545
+  },
+  {
+    "word": "Come by eight o'clock!",
+    "sentence": "",
+    "id": 5453
+  },
+  {
+    "word": "eighteen",
+    "sentence": "",
+    "id": 1086
+  },
+  {
+    "word": "There is no carpet on the floor.",
+    "sentence": "",
+    "id": 2234
+  },
+  {
+    "word": "to work",
+    "sentence": "I need to go to work at eight o'clock.",
+    "id": 4516
+  },
+  {
+    "word": "I am into sailing",
+    "sentence": "",
+    "id": 3679
+  },
+  {
+    "word": "he did not escape",
+    "sentence": "He did not escape from the forest.",
+    "id": 3843
+  },
+  {
+    "word": "neat",
+    "sentence": "This room is very neat.",
+    "id": 2095
+  },
+  {
+    "word": "sad",
+    "sentence": "Why are you so sad today?",
+    "id": 1611
+  },
+  {
+    "word": "landowner",
+    "sentence": "The landowner plans to sell part of his field.",
+    "id": 3532
+  },
+  {
+    "word": "workshop",
+    "sentence": "The car needs to be taken to the workshop for servicing.",
+    "id": 6022
+  },
+  {
+    "word": "emphasize",
+    "sentence": "It is important to emphasize the significance of cooperation.",
+    "id": 6970
+  },
+  {
+    "word": "souvenir",
+    "sentence": "This is a souvenir for you.",
+    "id": 2269
+  },
+  {
+    "word": "orienteering",
+    "sentence": "They are orienteering in the forest to find new paths.",
+    "id": 3774
+  },
+  {
+    "word": "Can I leave a call request?",
+    "sentence": "",
+    "id": 6518
+  },
+  {
+    "word": "me",
+    "sentence": "Coffee without sugar for me, please.",
+    "id": 2840
+  },
+  {
+    "word": "here",
+    "sentence": "Where is my cellphone? Is it here?",
+    "id": 4883
+  },
+  {
+    "word": "face",
+    "sentence": "",
+    "id": 3249
+  },
+  {
+    "word": "Payments",
+    "sentence": "",
+    "id": 3979
+  },
+  {
+    "word": "their course",
+    "sentence": "Their course starts tomorrow.",
+    "id": 1544
+  },
+  {
+    "word": "carnival",
+    "sentence": "The carnivals will begin next weekend.",
+    "id": 5400
+  },
+  {
+    "word": "difficult",
+    "sentence": "It was a difficult task.",
+    "id": 1383
+  },
+  {
+    "word": "Could you help me?",
+    "sentence": "",
+    "id": 4810
+  },
+  {
+    "word": "fall",
+    "sentence": "The fall from the stairs caused him to lose consciousness for a moment.",
+    "id": 4910
+  },
+  {
+    "word": "Who",
+    "sentence": "Who did you see at the party?",
+    "id": 3373
+  },
+  {
+    "word": "pregnancy",
+    "sentence": "Pregnancy usually lasts about nine months.",
+    "id": 5583
+  },
+  {
+    "word": "come to mind",
+    "sentence": "A good idea came to mind.",
+    "id": 5740
+  },
+  {
+    "word": "play (instrument)",
+    "sentence": "He plays the guitar.",
+    "id": 1366
+  },
+  {
+    "word": "where",
+    "sentence": "Where is the nearest supermarket?",
+    "id": 1179
+  },
+  {
+    "word": "he didn't wash",
+    "sentence": "He didn't wash the dog.",
+    "id": 3825
+  },
+  {
+    "word": "Did the cleaner open the window?",
+    "sentence": "",
+    "id": 3953
+  },
+  {
+    "word": "life imprisonment",
+    "sentence": "He received a sentence of life imprisonment.",
+    "id": 7346
+  },
+  {
+    "word": "chuckle",
+    "sentence": "He chuckled at his friend's joke.",
+    "id": 7151
+  },
+  {
+    "word": "revolution",
+    "sentence": "The revolution was started at night.",
+    "id": 5260
+  },
+  {
+    "word": "clarify",
+    "sentence": "Could you clarify where the nearest bus stop is?",
+    "id": 3940
+  },
+  {
+    "word": "cottage",
+    "sentence": "We converted the old sauna into a cottage.",
+    "id": 5638
+  },
+  {
+    "word": "task",
+    "sentence": "I have a lot of tasks today.",
+    "id": 2942
+  },
+  {
+    "word": "Shall we take the bus?",
+    "sentence": "",
+    "id": 4879
+  },
+  {
+    "word": "catch",
+    "sentence": "The fisherman made a big catch today.",
+    "id": 7226
+  },
+  {
+    "word": "who",
+    "sentence": "Who are you? - I am Olga.",
+    "id": 1108
+  },
+  {
+    "word": "daytime",
+    "sentence": "",
+    "id": 1429
+  },
+  {
+    "word": "sugar-free",
+    "sentence": "Could you recommend a good sugar-free ice cream?",
+    "id": 5007
+  },
+  {
+    "word": "twenty-four",
+    "sentence": "",
+    "id": 1303
+  },
+  {
+    "word": "North Pole",
+    "sentence": "",
+    "id": 1214
+  },
+  {
+    "word": "morning",
+    "sentence": "",
+    "id": 1432
+  },
+  {
+    "word": "hand",
+    "sentence": "He has a book in his hand.",
+    "id": 7184
+  },
+  {
+    "word": "fortieth",
+    "sentence": "They celebrated their fortieth wedding anniversary last week.",
+    "id": 6348
+  },
+  {
+    "word": "Pekka is happy",
+    "sentence": "",
+    "id": 4734
+  },
+  {
+    "word": "hamburger",
+    "sentence": "A hamburger is a classic fast food item.",
+    "id": 2542
+  },
+  {
+    "word": "you lived",
+    "sentence": "When was the last time you lived here?",
+    "id": 4870
+  },
+  {
+    "word": "surprise, catch off guard",
+    "sentence": "He caught me off guard with his statement.",
+    "id": 3909
+  },
+  {
+    "word": "Do not eat!",
+    "sentence": "",
+    "id": 5499
+  },
+  {
+    "word": "Keskustassa asuvat käyttävät paljon julkista liikennettä (Those who live in the center often use public transportation)",
+    "sentence": "",
+    "id": 6555
+  },
+  {
+    "word": "conductor",
+    "sentence": "The conductor skillfully leads the orchestra.",
+    "id": 5135
+  },
+  {
+    "word": "blood sausage",
+    "sentence": "Have you tried blood sausage?",
+    "id": 2298
+  },
+  {
+    "word": "Everything's fine, thank you.",
+    "sentence": "",
+    "id": 1144
+  },
+  {
+    "word": "packing",
+    "sentence": "That busy man in the hotel who is packing a suitcase.",
+    "id": 6534
+  },
+  {
+    "word": "heat up",
+    "sentence": "The morning coffee begins to heat up in the microwave.",
+    "id": 3408
+  },
+  {
+    "word": "Pekka wanted to clean the kitchen",
+    "sentence": "",
+    "id": 6267
+  },
+  {
+    "word": "zero",
+    "sentence": "",
+    "id": 1064
+  },
+  {
+    "word": "on weekdays",
+    "sentence": "I go to work on weekdays.",
+    "id": 3703
+  },
+  {
+    "word": "closer",
+    "sentence": "We are going closer to the shore to play volleyball.",
+    "id": 3071
+  },
+  {
+    "word": "answered",
+    "sentence": "When he asked me about it, I answered honestly.",
+    "id": 3124
+  },
+  {
+    "word": "get rid of",
+    "sentence": "I would like to get rid of my old things.",
+    "id": 6731
+  },
+  {
+    "word": "hotel",
+    "sentence": "",
+    "id": 4316
+  },
+  {
+    "word": "billion",
+    "sentence": "",
+    "id": 1137
+  },
+  {
+    "word": "turn",
+    "sentence": "Liisa turns 40 in June.",
+    "id": 4226
+  },
+  {
+    "word": "actually",
+    "sentence": "Actually, I like chocolate.",
+    "id": 3626
+  },
+  {
+    "word": "job application",
+    "sentence": "Can I send the job application by email?",
+    "id": 4346
+  },
+  {
+    "word": "I am (informal)",
+    "sentence": "I am at home.",
+    "id": 1123
+  },
+  {
+    "word": "interrupt",
+    "sentence": "Suddenly, Pedro interrupts Lauri.",
+    "id": 3898
+  },
+  {
+    "word": "read",
+    "sentence": "I have already read this book twice.",
+    "id": 4036
+  },
+  {
+    "word": "to arrive",
+    "sentence": "After traveling, it is always nice to arrive.",
+    "id": 2970
+  },
+  {
+    "word": "Now I live in East Helsinki, but next year I am moving to Espoo.",
+    "sentence": "",
+    "id": 4308
+  },
+  {
+    "word": "have read",
+    "sentence": "Excuse me, have you read this book already?",
+    "id": 4040
+  },
+  {
+    "word": "My friends live in the largest city in Bulgaria",
+    "sentence": "",
+    "id": 6037
+  },
+  {
+    "word": "I played",
+    "sentence": "I played the guitar in my childhood.",
+    "id": 3760
+  },
+  {
+    "word": "February - in February",
+    "sentence": "",
+    "id": 1446
+  },
+  {
+    "word": "Oh, really? What a pity.",
+    "sentence": "",
+    "id": 6865
+  },
+  {
+    "word": "Olavi Virta is a singer loved by many Finns.",
+    "sentence": "",
+    "id": 7081
+  },
+  {
+    "word": "by phone",
+    "sentence": "We can discuss the matter by phone.",
+    "id": 5546
+  },
+  {
+    "word": "versatile",
+    "sentence": "He is indeed a versatile artist.",
+    "id": 6986
+  },
+  {
+    "word": "unhurried, calm",
+    "sentence": "He is an unhurried person and enjoys life to the fullest.",
+    "id": 3091
+  },
+  {
+    "word": "we have",
+    "sentence": "We have a new car.",
+    "id": 1583
+  },
+  {
+    "word": "certainly",
+    "sentence": "He will certainly be late.",
+    "id": 3239
+  },
+  {
+    "word": "they lived",
+    "sentence": "They lived in Helsinki.",
+    "id": 4846
+  },
+  {
+    "word": "I live in a green house.",
+    "sentence": "",
+    "id": 2218
+  },
+  {
+    "word": "stage",
+    "sentence": "The stage of the theater was enormous and impressive.",
+    "id": 5080
+  },
+  {
+    "word": "taxi driver",
+    "sentence": "The taxi driver knows the city very well.",
+    "id": 2791
+  },
+  {
+    "word": "tray",
+    "sentence": "A tray is used for serving.",
+    "id": 2569
+  },
+  {
+    "word": "hero",
+    "sentence": "He is a true hero.",
+    "id": 5423
+  },
+  {
+    "word": "history textbook",
+    "sentence": "",
+    "id": 5209
+  },
+  {
+    "word": "hopefully",
+    "sentence": "Hopefully, everything is fine.",
+    "id": 1354
+  },
+  {
+    "word": "cucumber",
+    "sentence": "Cucumbers are great for salads.",
+    "id": 2512
+  },
+  {
+    "word": "varied assortment",
+    "sentence": "I have a varied assortment of things in this bag.",
+    "id": 6947
+  },
+  {
+    "word": "Nothing, I think helping is great!",
+    "sentence": "",
+    "id": 4811
+  },
+  {
+    "word": "free",
+    "sentence": "I have free time in the evening.",
+    "id": 1105
+  },
+  {
+    "word": "Kalle, take those broken shoes to the trash!",
+    "sentence": "",
+    "id": 7406
+  },
+  {
+    "word": "once",
+    "sentence": "Once, my grandmother taught me how to bake buns.",
+    "id": 6942
+  },
+  {
+    "word": "Time of day",
+    "sentence": "",
+    "id": 2987
+  },
+  {
+    "word": "novel",
+    "sentence": "I have a habit of reading a novel before going to bed.",
+    "id": 5139
+  },
+  {
+    "word": "shoe",
+    "sentence": "Where is my other shoe?",
+    "id": 1899
+  },
+  {
+    "word": "cherry",
+    "sentence": "Cherries are my favorite berries.",
+    "id": 2528
+  },
+  {
+    "word": "Jutta sings more beautifully than anyone else",
+    "sentence": "",
+    "id": 6218
+  },
+  {
+    "word": "recycle",
+    "sentence": "We all should recycle more to reduce the amount of waste.",
+    "id": 4918
+  },
+  {
+    "word": "get engaged",
+    "sentence": "They decided to get engaged next spring.",
+    "id": 4131
+  },
+  {
+    "word": "Did you buy milk?",
+    "sentence": "",
+    "id": 3801
+  },
+  {
+    "word": "Engagement",
+    "sentence": "",
+    "id": 4191
+  },
+  {
+    "word": "back",
+    "sentence": "My back hurts, where is the nearest pharmacy?",
+    "id": 3271
+  },
+  {
+    "word": "I can't play the piano",
+    "sentence": "",
+    "id": 1992
+  },
+  {
+    "word": "king, queen",
+    "sentence": "The king and queen held a party in the castle.",
+    "id": 5315
+  },
+  {
+    "word": "9 tall men",
+    "sentence": "",
+    "id": 1825
+  },
+  {
+    "word": "Baking is fun",
+    "sentence": "",
+    "id": 4740
+  },
+  {
+    "word": "Come on now!",
+    "sentence": "",
+    "id": 7025
+  },
+  {
+    "word": "we have not read",
+    "sentence": "Sorry, we have not read this book yet.",
+    "id": 4033
+  },
+  {
+    "word": "knew",
+    "sentence": "If you knew how badly I miss you.",
+    "id": 4976
+  },
+  {
+    "word": "exhausted (anxious, depressed)",
+    "sentence": "I feel very exhausted, anxious, and depressed.",
+    "id": 3303
+  },
+  {
+    "word": "I went there by train at 6 AM and returned by bus at 11 PM.",
+    "sentence": "",
+    "id": 2412
+  },
+  {
+    "word": "Have a good day!",
+    "sentence": "Have a good day! - Thank you, same to you!",
+    "id": 2384
+  },
+  {
+    "word": "Are you ready to order?",
+    "sentence": "",
+    "id": 2848
+  },
+  {
+    "word": "gentle",
+    "sentence": "He has a gentle smile.",
+    "id": 6091
+  },
+  {
+    "word": "spread",
+    "sentence": "Remember to wash your hands so that the flu doesn't spread.",
+    "id": 5398
+  },
+  {
+    "word": "word, ok",
+    "sentence": "Are you ready to start? - Yes, ok.",
+    "id": 2751
+  },
+  {
+    "word": "twenty-three",
+    "sentence": "",
+    "id": 1302
+  },
+  {
+    "word": "not drunk",
+    "sentence": "Coffee was not drunk in the morning.",
+    "id": 5337
+  },
+  {
+    "word": "Take a trip even to Lappeenranta!",
+    "sentence": "",
+    "id": 5807
+  },
+  {
+    "word": "outside",
+    "sentence": "It's cold outside now.",
+    "id": 2168
+  },
+  {
+    "word": "patient",
+    "sentence": "Be patient, learning takes time.",
+    "id": 4410
+  },
+  {
+    "word": "Goodbye!",
+    "sentence": "",
+    "id": 1028
+  },
+  {
+    "word": "bedroom",
+    "sentence": "The bedroom is cozy.",
+    "id": 2138
+  },
+  {
+    "word": "square",
+    "sentence": "The apartment is 50 square meters.",
+    "id": 2051
+  },
+  {
+    "word": "go out",
+    "sentence": "The lights went out suddenly.",
+    "id": 3570
+  },
+  {
+    "word": "plan",
+    "sentence": "The plan is ready for tomorrow.",
+    "id": 6297
+  },
+  {
+    "word": "Toni said he forgot his keys and phone at home on Friday",
+    "sentence": "",
+    "id": 7395
+  },
+  {
+    "word": "macaroni casserole",
+    "sentence": "Macaroni casserole is a favorite dish among children.",
+    "id": 2543
+  },
+  {
+    "word": "pie",
+    "sentence": "Homemade berry pie is a delicious treat.",
+    "id": 2550
+  },
+  {
+    "word": "soon",
+    "sentence": "The new residents will soon move into the houses.",
+    "id": 4356
+  },
+  {
+    "word": "it isn't",
+    "sentence": "Don't worry, it isn't your fault.",
+    "id": 4827
+  },
+  {
+    "word": "minute",
+    "sentence": "Five minutes ago.",
+    "id": 1937
+  },
+  {
+    "word": "I have been to Lapland",
+    "sentence": "",
+    "id": 4321
+  },
+  {
+    "word": "Do you have",
+    "sentence": "Do you have time?",
+    "id": 1102
+  },
+  {
+    "word": "main entrance",
+    "sentence": "Please use the main entrance.",
+    "id": 2714
+  },
+  {
+    "word": "organized",
+    "sentence": "He is very organized in his work.",
+    "id": 4407
+  },
+  {
+    "word": "Jewelry",
+    "sentence": "5 to 10 pieces of jewelry are produced per day.",
+    "id": 6919
+  },
+  {
+    "word": "meet",
+    "sentence": "Let's meet tomorrow at the café at ten o'clock.",
+    "id": 3156
+  },
+  {
+    "word": "culture",
+    "sentence": "Culture is an important part of Finland's identity.",
+    "id": 3762
+  },
+  {
+    "word": "eighth",
+    "sentence": "",
+    "id": 2659
+  },
+  {
+    "word": "damaged",
+    "sentence": "The car is damaged.",
+    "id": 7208
+  },
+  {
+    "word": "throw",
+    "sentence": "Throw the ball to the dog.",
+    "id": 6159
+  },
+  {
+    "word": "bathtub",
+    "sentence": "",
+    "id": 2130
+  },
+  {
+    "word": "play",
+    "sentence": "The children play football.",
+    "id": 1892
+  },
+  {
+    "word": "What day is it today? Today is November 12.",
+    "sentence": "",
+    "id": 2682
+  },
+  {
+    "word": "The man who was packing his suitcase is talking on the phone.",
+    "sentence": "",
+    "id": 6886
+  },
+  {
+    "word": "family leave",
+    "sentence": "He is currently on family leave.",
+    "id": 5604
+  },
+  {
+    "word": "I didn't know",
+    "sentence": "I didn't know that tomorrow is a holiday.",
+    "id": 3816
+  },
+  {
+    "word": "Playing chess",
+    "sentence": "",
+    "id": 3651
+  },
+  {
+    "word": "Where from?",
+    "sentence": "",
+    "id": 2211
+  },
+  {
+    "word": "dull",
+    "sentence": "The movie was really dull.",
+    "id": 6085
+  },
+  {
+    "word": "lingonberry jam",
+    "sentence": "The lingonberry jam is very delicious.",
+    "id": 2303
+  },
+  {
+    "word": "he didn't come",
+    "sentence": "He didn't come to the bus stop on time.",
+    "id": 3855
+  },
+  {
+    "word": "word",
+    "sentence": "This is a museum.",
+    "id": 2236
+  },
+  {
+    "word": "role",
+    "sentence": "He has an important role in this project.",
+    "id": 5124
+  },
+  {
+    "word": "His roommate had come home only then.",
+    "sentence": "",
+    "id": 7393
+  },
+  {
+    "word": "eleven",
+    "sentence": "",
+    "id": 1290
+  },
+  {
+    "word": "Naming ceremony",
+    "sentence": "We are organizing a naming ceremony next weekend.",
+    "id": 5609
+  }
+]

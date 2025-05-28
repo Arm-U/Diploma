@@ -1,0 +1,392 @@
+[
+  {
+    "id": 6130,
+    "translations": {
+      "ru": {
+        "word": "турнир",
+        "sentence": "Турнир проводится в субботу в школьном зале.",
+        "id": 6130
+      },
+      "fi": {
+        "word": "turnaus",
+        "sentence": "Turnaus järjestetään lauantaina koulun salissa.",
+        "id": 6130
+      },
+      "en": {
+        "word": "tournament",
+        "sentence": "The tournament is held on Saturday in the school hall.",
+        "id": 6130
+      },
+      "kz": {
+        "word": "турнир",
+        "sentence": "Турнир сенбі күні мектеп залында өтеді.",
+        "id": 6130
+      },
+      "nl": {
+        "word": "toernooi",
+        "sentence": "Het toernooi wordt gehouden op zaterdag in de schoolzaal.",
+        "id": 6130
+      }
+    }
+  },
+  {
+    "id": 6141,
+    "translations": {
+      "ru": {
+        "word": "матч",
+        "sentence": "Матч начинается в 18:00.",
+        "id": 6141
+      },
+      "fi": {
+        "word": "ottelu",
+        "sentence": "Ottelu alkaa klo 18.",
+        "id": 6141
+      },
+      "en": {
+        "word": "match",
+        "sentence": "The match starts at 6:00 PM.",
+        "id": 6141
+      },
+      "kz": {
+        "word": "матч",
+        "sentence": "Матч кешкі сағат 18:00-де басталады.",
+        "id": 6141
+      },
+      "nl": {
+        "word": "wedstrijd",
+        "sentence": "De wedstrijd begint om 18:00 uur.",
+        "id": 6141
+      }
+    }
+  },
+  {
+    "id": 6182,
+    "translations": {
+      "ru": {
+        "word": "соревнование",
+        "sentence": "Соревнование начинается ровно в десять часов.",
+        "id": 6182
+      },
+      "fi": {
+        "word": "kilpailu (kisa)",
+        "sentence": "Kisa alkaa tasan kello kymmenen.",
+        "id": 6182
+      },
+      "en": {
+        "word": "competition",
+        "sentence": "The competition begins precisely at ten o'clock.",
+        "id": 6182
+      },
+      "kz": {
+        "word": "жарыс",
+        "sentence": "Жарыс дәл сағат онда басталады.",
+        "id": 6182
+      },
+      "nl": {
+        "word": "wedstrijd",
+        "sentence": "De wedstrijd begint precies om tien uur.",
+        "id": 6182
+      }
+    }
+  },
+  {
+    "id": 6192,
+    "translations": {
+      "ru": {
+        "word": "отправление",
+        "sentence": "Отправление завтра в девять часов.",
+        "id": 6192
+      },
+      "fi": {
+        "word": "lähtö",
+        "sentence": "Lähtö on huomenna kello yhdeksän.",
+        "id": 6192
+      },
+      "en": {
+        "word": "departure",
+        "sentence": "The departure is tomorrow at nine o'clock.",
+        "id": 6192
+      },
+      "kz": {
+        "word": "кету",
+        "sentence": "Кету ертең сағат тоғызда.",
+        "id": 6192
+      },
+      "nl": {
+        "word": "vertrek",
+        "sentence": "Het vertrek is morgen om negen uur.",
+        "id": 6192
+      }
+    }
+  },
+  {
+    "id": 6196,
+    "translations": {
+      "ru": {
+        "word": "поражение",
+        "sentence": "Команда потерпела горькое поражение во вчерашнем матче.",
+        "id": 6196
+      },
+      "fi": {
+        "word": "häviö (tappio)",
+        "sentence": "Joukkue kärsi kirvelevän häviön eilisessä ottelussa.",
+        "id": 6196
+      },
+      "en": {
+        "word": "defeat",
+        "sentence": "The team suffered a bitter defeat in yesterday's match.",
+        "id": 6196
+      },
+      "kz": {
+        "word": "жеңіліс",
+        "sentence": "Кеше матчта команда ащы жеңіліс тапты.",
+        "id": 6196
+      },
+      "nl": {
+        "word": "nederlaag",
+        "sentence": "Het team leed een bittere nederlaag in de wedstrijd van gisteren.",
+        "id": 6196
+      }
+    }
+  },
+  {
+    "id": 6197,
+    "translations": {
+      "ru": {
+        "word": "ничья",
+        "sentence": "Игра закончилась вничью.",
+        "id": 6197
+      },
+      "fi": {
+        "word": "tasapeli",
+        "sentence": "Peli päättyi tasapeliin.",
+        "id": 6197
+      },
+      "en": {
+        "word": "draw",
+        "sentence": "The game ended in a draw.",
+        "id": 6197
+      },
+      "kz": {
+        "word": "тең ойын",
+        "sentence": "Ойын тең болып аяқталды.",
+        "id": 6197
+      },
+      "nl": {
+        "word": "gelijkspel",
+        "sentence": "Het spel eindigde in een gelijkspel.",
+        "id": 6197
+      }
+    }
+  },
+  {
+    "id": 6258,
+    "translations": {
+      "ru": {
+        "word": "который",
+        "sentence": "В который раз ты посещаешь этот музей?",
+        "id": 6258
+      },
+      "fi": {
+        "word": "monetta",
+        "sentence": "Monettako kertaa olet käynyt tässä museossa?",
+        "id": 6258
+      },
+      "en": {
+        "word": "how many times",
+        "sentence": "How many times have you visited this museum?",
+        "id": 6258
+      },
+      "kz": {
+        "word": "неше рет",
+        "sentence": "Сен осы мұражайға неше рет келдің?",
+        "id": 6258
+      },
+      "nl": {
+        "word": "hoe vaak",
+        "sentence": "Hoe vaak heb je dit museum bezocht?",
+        "id": 6258
+      }
+    }
+  },
+  {
+    "id": 6286,
+    "translations": {
+      "ru": {
+        "word": "всё ещё",
+        "sentence": "Мы всё ещё друзья?",
+        "id": 6286
+      },
+      "fi": {
+        "word": "yhä",
+        "sentence": "Olemmeko yhä ystäviä?",
+        "id": 6286
+      },
+      "en": {
+        "word": "still",
+        "sentence": "Are we still friends?",
+        "id": 6286
+      },
+      "kz": {
+        "word": "Әлі",
+        "sentence": "Біз әлі де дос болып жүрміз бе?",
+        "id": 6286
+      },
+      "nl": {
+        "word": "nog steeds",
+        "sentence": "Zijn we nog steeds vrienden?",
+        "id": 6286
+      }
+    }
+  },
+  {
+    "id": 6298,
+    "translations": {
+      "ru": {
+        "word": "решать",
+        "sentence": "Они решают поехать в Италию следующим летом.",
+        "id": 6298
+      },
+      "fi": {
+        "word": "päättää",
+        "sentence": "He päättävät matkustaa Italiaan ensi kesänä.",
+        "id": 6298
+      },
+      "en": {
+        "word": "decide",
+        "sentence": "They decide to travel to Italy next summer.",
+        "id": 6298
+      },
+      "kz": {
+        "word": "шешу",
+        "sentence": "Олар келесі жазда Италияға баруды шешеді.",
+        "id": 6298
+      },
+      "nl": {
+        "word": "beslissen",
+        "sentence": "Ze beslissen om volgende zomer naar Italië te reizen.",
+        "id": 6298
+      }
+    }
+  },
+  {
+    "id": 6309,
+    "translations": {
+      "ru": {
+        "word": "искатель талантов",
+        "sentence": "Искатель талантов заметил талант молодого певца.",
+        "id": 6309
+      },
+      "fi": {
+        "word": "kykyjenetsijä",
+        "sentence": "Kykyjenetsijä huomasi nuoren laulajan talentin.",
+        "id": 6309
+      },
+      "en": {
+        "word": "talent scout",
+        "sentence": "The talent scout noticed the young singer's talent.",
+        "id": 6309
+      },
+      "kz": {
+        "word": "таланттарды іздеуші",
+        "sentence": "Таланттарды іздеуші жас әншінің қабілетін байқады.",
+        "id": 6309
+      },
+      "nl": {
+        "word": "talentenscout",
+        "sentence": "De talentenscout merkte het talent van de jonge zanger op.",
+        "id": 6309
+      }
+    }
+  },
+  {
+    "id": 6325,
+    "translations": {
+      "ru": {
+        "word": "посол",
+        "sentence": "В Германии новый посол Финляндии.",
+        "id": 6325
+      },
+      "fi": {
+        "word": "suurlähettiläs",
+        "sentence": "Saksassa on uusi Suomen suurlähettiläs.",
+        "id": 6325
+      },
+      "en": {
+        "word": "ambassador",
+        "sentence": "Germany has a new Finnish ambassador.",
+        "id": 6325
+      },
+      "kz": {
+        "word": "елші",
+        "sentence": "Германияда жаңа фин елшісі бар.",
+        "id": 6325
+      },
+      "nl": {
+        "word": "ambassadeur",
+        "sentence": "Duitsland heeft een nieuwe Finse ambassadeur.",
+        "id": 6325
+      }
+    }
+  },
+  {
+    "id": 6327,
+    "translations": {
+      "ru": {
+        "word": "воздвигать, устанавливать",
+        "sentence": "Они собираются установить палатку на кемпинговой площадке.",
+        "id": 6327
+      },
+      "fi": {
+        "word": "pystyttää",
+        "sentence": "He aikovat pystyttää teltan leirintäalueelle.",
+        "id": 6327
+      },
+      "en": {
+        "word": "to erect, to set up",
+        "sentence": "They are going to set up a tent at the campsite.",
+        "id": 6327
+      },
+      "kz": {
+        "word": "тігу",
+        "sentence": "Олар лагерьде шатыр тігуді жоспарлап отыр.",
+        "id": 6327
+      },
+      "nl": {
+        "word": "opzetten",
+        "sentence": "Ze gaan een tent opzetten op de camping.",
+        "id": 6327
+      }
+    }
+  },
+  {
+    "id": 6330,
+    "translations": {
+      "ru": {
+        "word": "двадцать четыре",
+        "sentence": "Время — два часа и двадцать четыре минуты.",
+        "id": 6330
+      },
+      "fi": {
+        "word": "kakskyneljä",
+        "sentence": "Kello on kakskyneljä yli kaksi.",
+        "id": 6330
+      },
+      "en": {
+        "word": "twenty-four",
+        "sentence": "The time is twenty-four past two.",
+        "id": 6330
+      },
+      "kz": {
+        "word": "жиырма төрт",
+        "sentence": "Қазір сағат екіден жиырма төрт минут өтті.",
+        "id": 6330
+      },
+      "nl": {
+        "word": "vierentwintig",
+        "sentence": "Het is vierentwintig over twee.",
+        "id": 6330
+      }
+    }
+  }
+]
